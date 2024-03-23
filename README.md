@@ -1,0 +1,2 @@
+# glom
+tea staking testnet
